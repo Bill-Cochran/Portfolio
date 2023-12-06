@@ -90,7 +90,7 @@ const config = {
     {
       title: 'Professional Statement & Pitch video ',
       description:
-        'This is my pitch video.',
+        '',
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://example.com',
     },
@@ -98,27 +98,27 @@ const config = {
       title: 'Security Audit',
       description:
         'This is a security audit that was done on a fictional company.',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+      imageUrl: 'file:///C:/Users/15404/OneDrive/Documents/Fictional%20Case%20for%20Security%20Audit%20.pdf/250x250',
+      link: 'file:///C:/Users/15404/OneDrive/Documents/Fictional%20Case%20for%20Security%20Audit%20.pdf',
     },
      {
       title: 'Respond to a Security Incident',
       description:
         'I responded to a security incident of a fictional company.',
       imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+      link: 'file:///C:/Users/15404/OneDrive/respond%20to%20a%20security%20Incident%20.pdf',
     },
      {
       title: 'Packet Tracer- Cisco Badge',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        '',
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://example.com',
     },
      {
       title: '(ISC)2 Certified in Cybersecurity Badge',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        '',
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://example.com',
     },
@@ -126,7 +126,7 @@ const config = {
       title: 'Cloud Computing- AWS Cloud Practitioner Badge',
       description:
         'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-      imageUrl: 'https://via.placeholder.com/250x250',
+      imageUrl: '',
       link: 'https://example.com',
     },
      {
