@@ -2,7 +2,7 @@
 
 const config = {
   github: {
-    username: 'arifszn', // Your GitHub org/user name. (Required)
+    username: 'Bill-Cochran', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
@@ -11,22 +11,22 @@ const config = {
     },
   },
   social: {
-    linkedin: 'ariful-alam',
-    twitter: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    linkedin: 'Bill-Cochran',
+    twitter: '',
+    mastodon: '',
     facebook: '',
     instagram: '',
     youtube: '', // example: 'pewdiepie'
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: '',
+    dev: '',
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://arifszn.com',
-    phone: '',
-    email: 'arifulalamszn@gmail.com',
+    website: '',
+    phone: '(540)-454-3002',
+    email: 'Cochranb20@students.ecu.edu',
   },
   resume: {
     fileUrl:
@@ -34,34 +34,32 @@ const config = {
   },
   skills: [
     'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
+    'Python',
+    'Excel',
     'MySQL',
-    'PostgreSQL',
-    'Git',
-    'Docker',
-    'PHPUnit',
     'CSS',
-    'Antd',
-    'Tailwind',
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'Estes Express Lines',
+      position: 'Business Systems Analyst Intern',
+      from: 'June 2018',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://www.estes-express.com/',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
+      company: 'Wegmans',
+      position: 'Produce Customer Service',
+      from: 'December 2018',
+      to: 'September 2022',
+      companyLink: 'https://www.wegmans.com/',
+    },
+      {
+      company: 'Liberty Transport',
+      position: 'Operations Coordinator',
+      from: 'May 2021',
       to: 'August 2021',
-      companyLink: 'https://example.com',
+      companyLink: '',
     },
   ],
   /* certifications: [
@@ -74,10 +72,10 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'East Carolina University',
+      degree: 'Management Information Systems',
+      from: '2020',
+      to: '2024',
     },
     {
       institution: 'Institution Name',
