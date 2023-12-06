@@ -91,35 +91,35 @@ const config = {
       title: 'Professional Statement & Pitch video ',
       description:
         '',
-      imageUrl: 'https://via.placeholder.com/250x250',
+      imageUrl: '',
       link: 'https://drive.google.com/file/d/1PMOJ3IZ4ccbAMYrz_QNIJ7jwOufaHi6M/view?usp=drive_link',
     },
     {
       title: 'Security Audit',
       description:
         'This is a security audit that was done on a fictional company.',
-      imageUrl: 'https://drive.google.com/file/d/1F6IMeLS5HW4jkNzvimecpJDyGSav6yNr/view?usp=drive_link',
+      imageUrl: '',
       link: 'https://drive.google.com/file/d/1F6IMeLS5HW4jkNzvimecpJDyGSav6yNr/view?usp=drive_link',
     },
      {
       title: 'Respond to a Security Incident',
       description:
         'I responded to a security incident of a fictional company.',
-      imageUrl: 'https://via.placeholder.com/250x250',
+      imageUrl: '',
       link: 'https://drive.google.com/file/d/1y_-XYswzQ2O3E2KQBAysngwocOlMb9C4/view?usp=drive_link',
     },
      {
       title: 'Packet Tracer- Cisco Badge',
       description:
         '',
-      imageUrl: 'https://drive.google.com/file/d/1JB6g88zdUBsw8aOkO4IefFj3OZ78d1HL/view?usp=drive_link/250x250',
+      imageUrl: '',
       link: 'https://drive.google.com/file/d/1JB6g88zdUBsw8aOkO4IefFj3OZ78d1HL/view?usp=drive_link',
     },
      {
       title: '(ISC)2 Certified in Cybersecurity Badge',
       description:
         '',
-      imageUrl: 'https://via.placeholder.com/250x250',
+      imageUrl: '',
       link: 'https://drive.google.com/file/d/1qIHoW8iyKAE-1pYZqSntrFBwxyEu9NzY/view?usp=drive_link',
     },
      {
@@ -133,14 +133,14 @@ const config = {
       title: 'Personal Website',
       description:
         '',
-      imageUrl: 'https://faber.ecu.edu/intra/cochranb20/Project%201%20Cochran/index.html/250x250',
+      imageUrl: '',
       link: 'https://faber.ecu.edu/intra/cochranb20/Project%201%20Cochran/index.html',
     },
      {
       title: 'API Address/Zipcode Website',
       description:
         '',
-      imageUrl: 'https://faber.ecu.edu/intra/cochranb20/Project3//250x250',
+      imageUrl: '',
       link: 'https://faber.ecu.edu/intra/cochranb20/Project3/',
     },
   ],
