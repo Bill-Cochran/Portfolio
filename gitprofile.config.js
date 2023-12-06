@@ -143,6 +143,13 @@ const config = {
       imageUrl: '',
       link: 'https://faber.ecu.edu/intra/cochranb20/Project3/',
     },
+     {
+      title: 'Website Proposal for Fictional Company',
+      description:
+        'Developed a proposal, including a wireflow diagram, for a stylish, mobile-friendly website to enhance Greenville Exotic Pets' online presence.',
+      imageUrl: '',
+      link: 'https://drive.google.com/file/d/182q2dJb8rsLNhLExnBYBjE1tbZmMAfQ5/view?usp=drive_link',
+    },
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
