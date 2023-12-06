@@ -146,7 +146,7 @@ const config = {
      {
       title: 'Website Proposal for Fictional Company',
       description:
-        'Developed a proposal, including a wireflow diagram, for a stylish, mobile-friendly website to enhance Greenville Exotic Pets' online presence.',
+        'Developed a proposal, including a wireflow diagram, for a stylish, mobile-friendly website to enhance Greenville Exotic Pets online presence.',
       imageUrl: '',
       link: 'https://drive.google.com/file/d/182q2dJb8rsLNhLExnBYBjE1tbZmMAfQ5/view?usp=drive_link',
     },
