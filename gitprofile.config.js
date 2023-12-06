@@ -118,8 +118,8 @@ const config = {
      {
       title: '(ISC)2 Certified in Cybersecurity Badge',
       description:
-        '',
-      imageUrl: 'Completed a certification preparation course for ISC2 Certified in Cybersecurity (CC), gaining essential knowledge and skills for cybersecurity proficiency.',
+        'Completed a certification preparation course for ISC2 Certified in Cybersecurity (CC), gaining essential knowledge and skills for cybersecurity proficiency.',
+      imageUrl: '',
       link: 'https://drive.google.com/file/d/1qIHoW8iyKAE-1pYZqSntrFBwxyEu9NzY/view?usp=drive_link',
     },
      {
