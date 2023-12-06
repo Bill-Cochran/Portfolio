@@ -92,7 +92,7 @@ const config = {
       description:
         '',
       imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+      link: 'https://drive.google.com/file/d/1PMOJ3IZ4ccbAMYrz_QNIJ7jwOufaHi6M/view?usp=drive_link',
     },
     {
       title: 'Security Audit',
