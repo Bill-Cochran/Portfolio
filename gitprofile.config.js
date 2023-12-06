@@ -98,22 +98,22 @@ const config = {
       title: 'Security Audit',
       description:
         'This is a security audit that was done on a fictional company.',
-      imageUrl: 'file:///C:/Users/15404/OneDrive/Documents/Fictional%20Case%20for%20Security%20Audit%20.pdf/250x250',
-      link: 'file:///C:/Users/15404/OneDrive/Documents/Fictional%20Case%20for%20Security%20Audit%20.pdf',
+      imageUrl: 'https://drive.google.com/file/d/1F6IMeLS5HW4jkNzvimecpJDyGSav6yNr/view?usp=drive_link',
+      link: 'https://drive.google.com/file/d/1F6IMeLS5HW4jkNzvimecpJDyGSav6yNr/view?usp=drive_link',
     },
      {
       title: 'Respond to a Security Incident',
       description:
         'I responded to a security incident of a fictional company.',
       imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'file:///C:/Users/15404/OneDrive/respond%20to%20a%20security%20Incident%20.pdf',
+      link: 'https://drive.google.com/file/d/1y_-XYswzQ2O3E2KQBAysngwocOlMb9C4/view?usp=drive_link',
     },
      {
       title: 'Packet Tracer- Cisco Badge',
       description:
         '',
-      imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+      imageUrl: 'https://drive.google.com/file/d/1JB6g88zdUBsw8aOkO4IefFj3OZ78d1HL/view?usp=drive_link/250x250',
+      link: 'https://drive.google.com/file/d/1JB6g88zdUBsw8aOkO4IefFj3OZ78d1HL/view?usp=drive_link',
     },
      {
       title: '(ISC)2 Certified in Cybersecurity Badge',
