@@ -90,28 +90,28 @@ const config = {
     {
       title: 'Professional Statement & Pitch video ',
       description:
-        '',
+        'Created a professional statement and pitch video showcasing my skills and experiences.',
       imageUrl: '',
       link: 'https://drive.google.com/file/d/1PMOJ3IZ4ccbAMYrz_QNIJ7jwOufaHi6M/view?usp=drive_link',
     },
     {
       title: 'Security Audit',
       description:
-        'This is a security audit that was done on a fictional company.',
+        'Conducted a security audit for a fictional company, identifying vulnerabilities and proposing solutions.',
       imageUrl: '',
       link: 'https://drive.google.com/file/d/1F6IMeLS5HW4jkNzvimecpJDyGSav6yNr/view?usp=drive_link',
     },
      {
       title: 'Respond to a Security Incident',
       description:
-        'I responded to a security incident of a fictional company.',
+        'Responded to a security incident involving a fictional company, implementing measures to mitigate risks and address the incident.',
       imageUrl: '',
       link: 'https://drive.google.com/file/d/1y_-XYswzQ2O3E2KQBAysngwocOlMb9C4/view?usp=drive_link',
     },
      {
       title: 'Packet Tracer- Cisco Badge',
       description:
-        '',
+        'Completed a Packet Tracer activity related to Cisco networking, demonstrating proficiency in network simulation.',
       imageUrl: '',
       link: 'https://drive.google.com/file/d/1JB6g88zdUBsw8aOkO4IefFj3OZ78d1HL/view?usp=drive_link',
     },
@@ -119,27 +119,27 @@ const config = {
       title: '(ISC)2 Certified in Cybersecurity Badge',
       description:
         '',
-      imageUrl: '',
+      imageUrl: 'Completed a certification preparation course for ISC2 Certified in Cybersecurity (CC), gaining essential knowledge and skills for cybersecurity proficiency.',
       link: 'https://drive.google.com/file/d/1qIHoW8iyKAE-1pYZqSntrFBwxyEu9NzY/view?usp=drive_link',
     },
      {
       title: 'Cloud Computing- AWS Cloud Practitioner Badge',
       description:
-        '',
+        ' Attained the AWS Cloud Practitioner Badge, indicating proficiency in cloud computing concepts and AWS services.',
       imageUrl: '',
       link: 'https://drive.google.com/file/d/1DpbDmEcG4MhAWPMbAM3Bczx98SqqaIwQ/view?usp=drive_link',
     },
      {
       title: 'Personal Website',
       description:
-        '',
+        'Designed and developed a personal website showcasing skills and professional background.',
       imageUrl: '',
       link: 'https://faber.ecu.edu/intra/cochranb20/Project%201%20Cochran/index.html',
     },
      {
       title: 'API Address/Zipcode Website',
       description:
-        '',
+        'Created a website utilizing API to retrieve and display address/zipcode information, demonstrating web development skills.',
       imageUrl: '',
       link: 'https://faber.ecu.edu/intra/cochranb20/Project3/',
     },
