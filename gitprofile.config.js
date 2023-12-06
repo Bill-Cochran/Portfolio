@@ -120,14 +120,14 @@ const config = {
       description:
         '',
       imageUrl: 'https://via.placeholder.com/250x250',
-      link: 'https://example.com',
+      link: 'https://drive.google.com/file/d/1qIHoW8iyKAE-1pYZqSntrFBwxyEu9NzY/view?usp=drive_link',
     },
      {
       title: 'Cloud Computing- AWS Cloud Practitioner Badge',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+        '',
       imageUrl: '',
-      link: 'https://example.com',
+      link: 'https://drive.google.com/file/d/1DpbDmEcG4MhAWPMbAM3Bczx98SqqaIwQ/view?usp=drive_link',
     },
      {
       title: 'Personal Website',
