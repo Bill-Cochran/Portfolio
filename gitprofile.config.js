@@ -88,18 +88,60 @@ const config = {
   // To hide the `My Projects` section, keep it empty.
   externalProjects: [
     {
-      title: 'Project Name',
+      title: 'Professional Statement & Pitch video ',
+      description:
+        'This is my pitch video.',
+      imageUrl: 'https://via.placeholder.com/250x250',
+      link: 'https://example.com',
+    },
+    {
+      title: 'Security Audit',
+      description:
+        'This is a security audit that was done on a fictional company.',
+      imageUrl: 'https://via.placeholder.com/250x250',
+      link: 'https://example.com',
+    },
+     {
+      title: 'Respond to a Security Incident',
+      description:
+        'I responded to a security incident of a fictional company.',
+      imageUrl: 'https://via.placeholder.com/250x250',
+      link: 'https://example.com',
+    },
+     {
+      title: 'Packet Tracer- Cisco Badge',
       description:
         'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://example.com',
     },
-    {
-      title: 'Project Name',
+     {
+      title: '(ISC)2 Certified in Cybersecurity Badge',
       description:
         'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
       imageUrl: 'https://via.placeholder.com/250x250',
       link: 'https://example.com',
+    },
+     {
+      title: 'Cloud Computing- AWS Cloud Practitioner Badge',
+      description:
+        'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+      imageUrl: 'https://via.placeholder.com/250x250',
+      link: 'https://example.com',
+    },
+     {
+      title: 'Personal Website',
+      description:
+        '',
+      imageUrl: 'https://faber.ecu.edu/intra/cochranb20/Project%201%20Cochran/index.html/250x250',
+      link: 'https://faber.ecu.edu/intra/cochranb20/Project%201%20Cochran/index.html',
+    },
+     {
+      title: 'API Address/Zipcode Website',
+      description:
+        '',
+      imageUrl: 'https://faber.ecu.edu/intra/cochranb20/Project3//250x250',
+      link: 'https://faber.ecu.edu/intra/cochranb20/Project3/',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
